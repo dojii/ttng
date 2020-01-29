@@ -64,7 +64,7 @@
 	#sub {potezny matowy tasak} {<028>%0 <088>( <038>Orcall Szef Orkow<088> )};
 	#sub {czarny obsydianowy miecz} {<028>%0 <088>( <038>Tilea Zjawy<088> )};
 	#sub {smukly lsniacy scimitar} {<028>%0 <088>( <038>?<088> )};
-	#sub {posrebrzany dlugi miecz} {<028>%0 <088>( <038>?<088> )};
+	#sub {posrebrzany dlugi miecz} {<028>%0 <088>( <038>Ruiny Rinde<088> )};
 
 
 #nop MIECZE DWURECZNE;
